@@ -1,7 +1,7 @@
 # amirzekavati 🧢
 
 ## About me
-**My name is Amir zekavati. I'm studying computer engineering at Shahid Beheshti university. I really enjoy learning languages.I love the entire of process of developing   programs.
+**My name is Amir zekavati. I'm studying computer engineering at Shahid Beheshti university. I really enjoy learning languages. I love the entire of process of developing   programs.**
 
 
 ## 💼 Technical Skills
@@ -16,4 +16,3 @@
 
 ## 📈 GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirzekavati&show_icons=true&theme=yeblu)
-

@@ -1,8 +1,7 @@
 <h1 align="center"> Hi👋, I'm Amir zekavati🧢</h1>
 
 ## About me
-## I'm studying computer engineering at Shahid Beheshti university. I really enjoy learning languages. I love the entire of process of developing   programs.
-<br /><br />
+**I'm studying computer engineering at Shahid Beheshti university. I really enjoy learning languages. I love the entire of process of developing programs.**
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 
